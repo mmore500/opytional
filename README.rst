@@ -80,10 +80,10 @@ Inspired by C++'s :code:`std::optional`.
   opyt.apply_if_or_else(None, lambda x: x + ' world', lambda: 'fallback')
   # returns 'fallback'
 
-  opyt.apply_if_or_value('hello', lambda x: x + ' world', lambda: 'fallback')
+  opyt.apply_if_or_else('hello', lambda x: x + ' world', lambda: 'fallback')
   # returns 'hello world'
 
-  opyt.apply_if_or_value('hello', lambda x: None, lambda: 'fallback')
+  opyt.apply_if_or_else('hello', lambda x: None, lambda: 'fallback')
   # returns None
 
 
