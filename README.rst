@@ -1,6 +1,6 @@
-============
-opytional
-============
+.. figure:: docs/assets/opytional.jpg
+   :target: https://github.com/mmore500/opytional
+   :alt: opytional wordmark
 
 
 .. image:: https://img.shields.io/pypi/v/opytional.svg
