@@ -23,7 +23,7 @@ opytional makes working with values that might be None safer and easier
 * Documentation: https://opytional.readthedocs.io.
 
 
-Inspired by C++'s :code:`std::optional`.
+Inspired by C++'s :code:`std::optional` (`link <https://en.cppreference.com/w/cpp/utility/optional>`__).
 
 
 .. code-block:: python3
