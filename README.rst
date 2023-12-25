@@ -1,4 +1,4 @@
-.. figure:: docs/assets/opytional.jpg
+.. figure:: docs/assets/opytional-wordmark.jpg
    :target: https://github.com/mmore500/opytional
    :alt: opytional wordmark
 
